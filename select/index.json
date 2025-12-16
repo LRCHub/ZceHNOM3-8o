@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "めくばせ",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-16T06:58:16.779427Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "めくばせ",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_めくばせ_SUPER_BEAVER.txt"
+    }
+  ]
+}
